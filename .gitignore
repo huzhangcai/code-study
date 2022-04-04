@@ -1,6 +1,9 @@
 *.bin
 *.lock
 *.html
+.idea
+*.idx
+*.xml
 
 # Compiled class file
 *.class
