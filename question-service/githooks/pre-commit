@@ -1,5 +1,4 @@
 git stash -qku
 D:\study\code\graceful-coding\question-service\gradlew.bat clean check
-RESULT=$?
+
 git stash pop -q
-exit $RESULT
